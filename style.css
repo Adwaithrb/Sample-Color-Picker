@@ -1,0 +1,59 @@
+.color-picker-container{
+  background-color: #fff;
+  height: 100vh;
+}
+
+.color-picker-heading{
+  font-family: "open Sans";
+  font-size: 50px;
+  font-weight: 800;
+   
+}
+
+.button{
+  font-family: "Open Sans";
+  font-size: 14px;
+  width: 100px;
+  height: 100px;
+  border-width: 3px;
+  border-color: black;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.button-1{
+  background-color: #e0e0e0;
+}
+
+.button-2{
+  background-color: #6fcf97;
+}
+.button-3{
+  background-color: #56ccf2;
+}
+.button-4{
+  background-color: #bb6bd9;
+}
+.black{
+  background-color: #222;
+  color: white;
+  font-family: "Open Sans";
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 16px;
+}
+.hex{
+  color: #49a6e9;
+}
+.ins{
+  font-family: "Open Sans";
+  font-size: 20px;
+}
+.imgg{
+  width: 50px;
+  height: 50px;
+}
+.bg{
+  background-color: #9db4c4;
+}
